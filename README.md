@@ -3,7 +3,7 @@
 
 ### DEMOSTRATION VIDEO:- [VIDEO](https://www.awesomescreenshot.com/video/21630859?key=30c33d1cc2b034a607ed6de32cf729cc) 
 
-### LIVE WEBSITE - [TRAVEL & TOUR](https://tour-travel-main-shakilla1.vercel.app/)
+### LIVE WEBSITE - [TRAVEL & TOUR](https://tour-travel-main.vercel.app/)
 
 ### BELOOW FEATURES ARE IMPLEMENTED IN THE TRAVEL TOUR:
 
