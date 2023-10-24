@@ -57,13 +57,13 @@
 - Logout options
 
 ### ADMIN DASHBOARD
-- User activites
-- Update user informations
+- User activities
+- Update user information
 - User management dynamic 
-- Can delete and update user informations
+- Can delete and update user pieces of information
 - Book events dummy data
 - Notifications center
-- Events managements where admin can create, view and  delete events.
+- Events management where admin can create, view and  delete events.
 - Logout options
 
 <!-- 
