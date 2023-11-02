@@ -6,17 +6,21 @@ import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import Nav from 'react-bootstrap/Nav';
 
 const Booking = () => {
+    
     const handleBooking = (event) => {
         event.preventDefault();
         toast('Event Booked successfully, thank you for the booking.')
     }
+    
     const handleReserver = (event) => {
         event.preventDefault();
         toast('Event reserved successfully, after 48 hours reservation will be cancelled.')
     }
 
     return (
+        
         <div className="py-4" data-aos="fade-up">
+           
             <Container>
                 <Breadcrumb className="text-decoration-none">
                     <Breadcrumb.Item href="/" className="text-decoration-none">Home</Breadcrumb.Item>
