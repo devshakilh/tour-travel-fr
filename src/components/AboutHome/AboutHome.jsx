@@ -31,7 +31,7 @@ const AboutHome = () => {
                                 {' '}
                             </p>
                             <footer className="blockquote-footer">
-                                Someone famous in <cite title="Source Title">Kazi Rahat - CEO</cite>
+                                Someone famous in <cite title="Source Title">Md Shakil Hossain - CEO</cite>
                             </footer>
                         </blockquote>
                     </Card.Body>

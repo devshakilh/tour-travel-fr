@@ -38,13 +38,13 @@ const Testimonials = () => {
                             <Card.Img src="/assets/user-1.png" className='t_profile_img' />
                             <div className="d-flex flex-column ms-2">
                                 <span className='text-dark fw-bold'>Shakil Hossain</span>
-                                <small className='text-muted'>Front-end Developer at Rahat webdev</small>
+                                <small className='text-muted'>Front-end Developer </small>
                             </div>
                         </div>
                         <Card.Body className="">
-                            <Card.Title>Proshanti!</Card.Title>
+                            <Card.Title>Elon Mask!</Card.Title>
                             <Card.Text style={{ color: '#666 !important', fontSize: '.88em' }}>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nulla cumque culpa enim perspiciatis aperiam perferendis eveniet omnis! Deleniti, animi?
+                                “The hotel was perfect. Location is right in between two metro stations that would take you anywhere you want. Staff were super helpful and friendly.
                             </Card.Text>
 
                         </Card.Body>
@@ -60,13 +60,13 @@ const Testimonials = () => {
                             <Card.Img src="/assets/user-1.png" className='t_profile_img' />
                             <div className="d-flex flex-column ms-2">
                                 <span className='text-dark fw-bold'>Shakil Hossain</span>
-                                <small className='text-muted'>Front-end Developer at Rahat webdev</small>
+                                <small className='text-muted'>Front-end Developer </small>
                             </div>
                         </div>
                         <Card.Body className="">
-                            <Card.Title>Proshanti!</Card.Title>
+                            <Card.Title>Elon Mask!</Card.Title>
                             <Card.Text style={{ color: '#666 !important', fontSize: '.88em' }}>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nulla cumque culpa enim perspiciatis aperiam perferendis eveniet omnis! Deleniti, animi?
+                                “The hotel was perfect. Location is right in between two metro stations that would take you anywhere you want. Staff were super helpful and friendly.
                             </Card.Text>
 
                         </Card.Body>
@@ -82,13 +82,13 @@ const Testimonials = () => {
                             <Card.Img src="/assets/user-1.png" className='t_profile_img' />
                             <div className="d-flex flex-column ms-2">
                                 <span className='text-dark fw-bold'>Shakil Hossain</span>
-                                <small className='text-muted'>Front-end Developer at Rahat webdev</small>
+                                <small className='text-muted'>Front-end Developer </small>
                             </div>
                         </div>
                         <Card.Body className="">
-                            <Card.Title>Proshanti!</Card.Title>
+                            <Card.Title>Elon Mask!</Card.Title>
                             <Card.Text style={{ color: '#666 !important', fontSize: '.88em' }}>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nulla cumque culpa enim perspiciatis aperiam perferendis eveniet omnis! Deleniti, animi?
+                                “The hotel was perfect. Location is right in between two metro stations that would take you anywhere you want. Staff were super helpful and friendly.
                             </Card.Text>
 
                         </Card.Body>
@@ -104,13 +104,13 @@ const Testimonials = () => {
                             <Card.Img src="/assets/user-1.png" className='t_profile_img' />
                             <div className="d-flex flex-column ms-2">
                                 <span className='text-dark fw-bold'>Shakil Hossain</span>
-                                <small className='text-muted'>Front-end Developer at Rahat webdev</small>
+                                <small className='text-muted'>Front-end Developer </small>
                             </div>
                         </div>
                         <Card.Body className="">
-                            <Card.Title>Proshanti!</Card.Title>
+                            <Card.Title>Elon Mask!</Card.Title>
                             <Card.Text style={{ color: '#666 !important', fontSize: '.88em' }}>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nulla cumque culpa enim perspiciatis aperiam perferendis eveniet omnis! Deleniti, animi?
+                                “The hotel was perfect. Location is right in between two metro stations that would take you anywhere you want. Staff were super helpful and friendly.
                             </Card.Text>
 
                         </Card.Body>
@@ -126,13 +126,13 @@ const Testimonials = () => {
                             <Card.Img src="/assets/user-1.png" className='t_profile_img' />
                             <div className="d-flex flex-column ms-2">
                                 <span className='text-dark fw-bold'>Shakil Hossain</span>
-                                <small className='text-muted'>Front-end Developer at Rahat webdev</small>
+                                <small className='text-muted'>Front-end Developer </small>
                             </div>
                         </div>
                         <Card.Body className="">
-                            <Card.Title>Proshanti!</Card.Title>
+                            <Card.Title>Elon Mask!</Card.Title>
                             <Card.Text style={{ color: '#666 !important', fontSize: '.88em' }}>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti nulla cumque culpa enim perspiciatis aperiam perferendis eveniet omnis! Deleniti, animi?
+                                “The hotel was perfect. Location is right in between two metro stations that would take you anywhere you want. Staff were super helpful and friendly.
                             </Card.Text>
 
                         </Card.Body>
