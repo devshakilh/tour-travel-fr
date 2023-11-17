@@ -1,5 +1,4 @@
-clone 
-npm i or yarn
+c
 ## TRAVEL AND TOUR:
 
 ### DEMOSTRATION VIDEO:- [VIDEO](https://www.awesomescreenshot.com/video/21630859?key=30c33d1cc2b034a607ed6de32cf729cc) 
